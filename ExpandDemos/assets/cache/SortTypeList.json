@@ -1,0 +1,14 @@
+[
+            {
+                "sortTypeId": "default_sort",
+                "sortTypeName": "默认"
+            },
+            {
+                "sortTypeId": "distance_asc",
+                "sortTypeName": "离我最近"
+            },
+            {
+                "sortTypeId": "discount_asc",
+                "sortTypeName": "优惠最多"
+            }
+]

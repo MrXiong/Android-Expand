@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="expand_tab_pressed">#F5F5F5</color>
+	<color name="popup_main_background">#b0000000</color>
+</resources>

@@ -1,0 +1,22 @@
+[
+            {
+                "nearTypeId": "50000",
+                "nearTypeName": "全部"
+            },
+            {
+                "nearTypeId": "500",
+                "nearTypeName": "500m"
+            },
+            {
+                "nearTypeId": "1000",
+                "nearTypeName": "1000m"
+            },
+            {
+                "nearTypeId": "2000",
+                "nearTypeName": "2000m"
+            },
+            {
+                "nearTypeId": "5000",
+                "nearTypeName": "5000m"
+            }
+]

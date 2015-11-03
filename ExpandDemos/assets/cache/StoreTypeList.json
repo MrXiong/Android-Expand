@@ -1,0 +1,774 @@
+[
+            {
+                "storeTypeId": "",
+                "storeTypeName": "全部",
+                "pid": "0",
+                "children": []
+            },
+            {
+                "storeTypeId": "100",
+                "storeTypeName": "好吃的",
+                "pid": "0",
+                "children": [
+                    {
+                        "storeTypeId": "all-100",
+                        "storeTypeName": "全部",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100100",
+                        "storeTypeName": "京菜鲁菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100101",
+                        "storeTypeName": "粤菜茶餐厅",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100102",
+                        "storeTypeName": "川湘菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100103",
+                        "storeTypeName": "创意私房菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100105",
+                        "storeTypeName": "东北菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100106",
+                        "storeTypeName": "东南亚菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100107",
+                        "storeTypeName": "云贵菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100108",
+                        "storeTypeName": "海南菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100110",
+                        "storeTypeName": "湖北菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100111",
+                        "storeTypeName": "淮扬菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100112",
+                        "storeTypeName": "徽菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100113",
+                        "storeTypeName": "火锅",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100114",
+                        "storeTypeName": "江西菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100115",
+                        "storeTypeName": "江浙菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100118",
+                        "storeTypeName": "内蒙菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100119",
+                        "storeTypeName": "日韩料理",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100120",
+                        "storeTypeName": "山西菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100121",
+                        "storeTypeName": "陕菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100123",
+                        "storeTypeName": "素食",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100124",
+                        "storeTypeName": "台湾菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100125",
+                        "storeTypeName": "天津菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100126",
+                        "storeTypeName": "西餐",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100128",
+                        "storeTypeName": "小吃快餐",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100129",
+                        "storeTypeName": "西北新疆清真菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100132",
+                        "storeTypeName": "自助餐",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100134",
+                        "storeTypeName": "河北菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100135",
+                        "storeTypeName": "河南菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100136",
+                        "storeTypeName": "聚会宴请",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100137",
+                        "storeTypeName": "披萨",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100138",
+                        "storeTypeName": "烤鸭",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100140",
+                        "storeTypeName": "客家菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100142",
+                        "storeTypeName": "麻辣烫",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100143",
+                        "storeTypeName": "闽菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100144",
+                        "storeTypeName": "蛋糕甜点饮品",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100147",
+                        "storeTypeName": "中东菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100148",
+                        "storeTypeName": "咖啡酒吧",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100151",
+                        "storeTypeName": "香锅烤鱼",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100152",
+                        "storeTypeName": "烧烤烤肉",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100153",
+                        "storeTypeName": "汤粥炖菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100154",
+                        "storeTypeName": "小龙虾",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100155",
+                        "storeTypeName": "西藏菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100156",
+                        "storeTypeName": "涮羊肉",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100157",
+                        "storeTypeName": "串串香",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100158",
+                        "storeTypeName": "上海菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100159",
+                        "storeTypeName": "广西菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100160",
+                        "storeTypeName": "蟹宴",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100162",
+                        "storeTypeName": "潮汕菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100163",
+                        "storeTypeName": "越南菜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100164",
+                        "storeTypeName": "海鲜",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100165",
+                        "storeTypeName": "家常菜农家菜综类合",
+                        "pid": "100",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "100999",
+                        "storeTypeName": "其他好吃的",
+                        "pid": "100",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "storeTypeId": "200",
+                "storeTypeName": "好玩的",
+                "pid": "0",
+                "children": [
+                    {
+                        "storeTypeId": "all-200",
+                        "storeTypeName": "全部",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200100",
+                        "storeTypeName": "DIY手工",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200101",
+                        "storeTypeName": "KTV",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200103",
+                        "storeTypeName": "度假村",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200104",
+                        "storeTypeName": "公园游乐园水上乐园",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200105",
+                        "storeTypeName": "景点郊游",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200108",
+                        "storeTypeName": "农家院",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200110",
+                        "storeTypeName": "温泉浴场",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200111",
+                        "storeTypeName": "演出赛事展览",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200114",
+                        "storeTypeName": "运动健身",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200115",
+                        "storeTypeName": "桌游电玩网吧",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200116",
+                        "storeTypeName": "足疗按摩",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200117",
+                        "storeTypeName": "文化艺术",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200120",
+                        "storeTypeName": "密室逃脱",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200122",
+                        "storeTypeName": "真人CS",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200122",
+                        "storeTypeName": "卡丁车",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200124",
+                        "storeTypeName": "游泳",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200125",
+                        "storeTypeName": "滑雪滑冰",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200127",
+                        "storeTypeName": "录音棚",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200128",
+                        "storeTypeName": "院线影院",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200129",
+                        "storeTypeName": "农家乐采摘",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200130",
+                        "storeTypeName": "保健养生",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200131",
+                        "storeTypeName": "休闲咖啡酒吧",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200132",
+                        "storeTypeName": "游乐游艺",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200133",
+                        "storeTypeName": "电影",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200135",
+                        "storeTypeName": "赛车",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200136",
+                        "storeTypeName": "酒店",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200137",
+                        "storeTypeName": "轰趴馆",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200138",
+                        "storeTypeName": "旅游",
+                        "pid": "200",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "200999",
+                        "storeTypeName": "其他好玩的",
+                        "pid": "200",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "storeTypeId": "300",
+                "storeTypeName": "美美的",
+                "pid": "0",
+                "children": [
+                    {
+                        "storeTypeId": "all-300",
+                        "storeTypeName": "全部",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300100",
+                        "storeTypeName": "彩妆造型",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300101",
+                        "storeTypeName": "个护化妆",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300102",
+                        "storeTypeName": "个性写真",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300103",
+                        "storeTypeName": "化妆品",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300104",
+                        "storeTypeName": "美发",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300105",
+                        "storeTypeName": "美甲",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300107",
+                        "storeTypeName": "瘦身纤体",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300108",
+                        "storeTypeName": "舞蹈",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300109",
+                        "storeTypeName": "瑜伽",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300111",
+                        "storeTypeName": "整容塑身",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300112",
+                        "storeTypeName": "SPA美体",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300113",
+                        "storeTypeName": "其他美容美体",
+                        "pid": "300",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "300999",
+                        "storeTypeName": "其他美美的",
+                        "pid": "300",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "storeTypeId": "999",
+                "storeTypeName": "更多的",
+                "pid": "0",
+                "children": [
+                    {
+                        "storeTypeId": "all-999",
+                        "storeTypeName": "全部",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999100",
+                        "storeTypeName": "超市",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999101",
+                        "storeTypeName": "宠物服务",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999102",
+                        "storeTypeName": "服装定制",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999103",
+                        "storeTypeName": "家政服务",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999105",
+                        "storeTypeName": "配镜",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999106",
+                        "storeTypeName": "体检",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999107",
+                        "storeTypeName": "照片冲印",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999108",
+                        "storeTypeName": "驾校陪练",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999109",
+                        "storeTypeName": "教育培训",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999110",
+                        "storeTypeName": "口腔",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999111",
+                        "storeTypeName": "汽车养护",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999112",
+                        "storeTypeName": "洗衣店",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999113",
+                        "storeTypeName": "鲜花",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999115",
+                        "storeTypeName": "摄影",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999117",
+                        "storeTypeName": "健康服务",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999118",
+                        "storeTypeName": "婚庆服务",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999119",
+                        "storeTypeName": "洗衣店",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999120",
+                        "storeTypeName": "亲子",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999121",
+                        "storeTypeName": "购物",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999122",
+                        "storeTypeName": "家装",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999123",
+                        "storeTypeName": "送水送奶",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999124",
+                        "storeTypeName": "租车",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999125",
+                        "storeTypeName": "加油站",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999126",
+                        "storeTypeName": "衣物皮具洗护",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999999",
+                        "storeTypeName": "其他生活服务",
+                        "pid": "999",
+                        "children": []
+                    },
+                    {
+                        "storeTypeId": "999999",
+                        "storeTypeName": "其它",
+                        "pid": "999",
+                        "children": []
+                    }
+                ]
+            }
+]
